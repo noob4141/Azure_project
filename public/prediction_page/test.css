@@ -1,0 +1,112 @@
+.custom-styling-wrapper  {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 50px auto;
+    text-align: center;
+    max-width: 800px;
+    background-color: #f7f7f7;
+}
+
+.custom-styling-wrapper h1 {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.custom-styling-wrapper .button {
+    display: inline-block;
+    width: 150px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.custom-styling-wrapper .button:hover {
+    background-color: #2980b9;
+}
+
+.custom-styling-wrapper #imageUpload {
+    display: none;
+}
+
+.custom-styling-wrapper #uploadedImageContainer {
+    display: none;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+.custom-styling-wrapper #uploadedImage {
+    max-width: 100%;
+    margin: 20px auto;
+    display: block;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.custom-styling-wrapper .loading {
+    display: none;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.custom-styling-wrapper .custom-styling-wrapper .loading img {
+    width: 50px;
+    height: 50px;
+}
+
+/* Results section styles */
+.custom-styling-wrapper #results {
+    list-style-type: none;
+    padding: 0;
+    text-align: left;
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.custom-styling-wrapper #results li {
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.custom-styling-wrapper #results h2 {
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.custom-styling-wrapper #results strong {
+    color: #3498db;
+}
+
+.custom-styling-wrapper #results em {
+    color: #555;
+}
+
+
+.custom-styling-wrapper .prevention-heading {
+    color: #27ae60;
+}
+
+.custom-styling-wrapper .prevention-method {
+    margin-left: 20px;
+    color: #555;
+}
+
+.custom-styling-wrapper #imageName {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #555;
+    display: none; /* Initially hide image name */
+}
+

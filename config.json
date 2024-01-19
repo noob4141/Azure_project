@@ -1,0 +1,10 @@
+{
+    "VISION_TRAINING_KEY": "9f84d176a6e74656a3ecc4e42e895038",
+    "VISION_TRAINING_ENDPOINT": "https://imagepro.cognitiveservices.azure.com/",
+    "VISION_PREDICTION_KEY": "807f797e51054ce3be24bed98cdf4f6d",
+    "VISION_PREDICTION_ENDPOINT": "https://imagepro-prediction.cognitiveservices.azure.com/",
+    "VISION_PREDICTION_RESOURCE_ID": "/subscriptions/0e710240-4e10-4668-a09f-b835bfef289c/resourceGroups/ML/providers/Microsoft.CognitiveServices/accounts/imagepro-Prediction",
+    "projectId": "59602d09-8e07-4d08-a065-be44ff70f714",
+    "publishIterationName": "Agriculture"
+  }
+  

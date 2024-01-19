@@ -1,0 +1,97 @@
+.component5-container {
+  width: 993.0000305175781px;
+  height: 388px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component5-button {
+  left: 381px;
+  color: var(--dl-color-gray-white);
+  bottom: 0px;
+  position: absolute;
+  align-self: center;
+  font-family: "Raleway";
+  font-weight: 700;
+  border-color: var(--dl-color-success-300);
+  background-color: rgb(25, 144, 51);
+}
+.component5-textarea {
+  top: 153px;
+  left: 379px;
+  width: 613px;
+  height: 171px;
+  position: absolute;
+}
+.component5-textinput {
+  top: 0px;
+  left: 379px;
+  position: absolute;
+}
+.component5-text {
+  top: 4px;
+  right: 267.5000305175781px;
+  position: absolute;
+}
+.component5-text01 {
+  top: 5px;
+  left: 302px;
+  position: absolute;
+}
+.component5-text02 {
+  top: 83px;
+  left: 298px;
+  position: absolute;
+}
+.component5-text03 {
+  top: 83px;
+  right: 262.7000274658203px;
+  position: absolute;
+}
+.component5-text04 {
+  top: 153px;
+  left: 274px;
+  position: absolute;
+}
+.component5-textinput1 {
+  top: 0px;
+  right: 0px;
+  position: absolute;
+}
+.component5-textinput2 {
+  top: 78px;
+  right: 0px;
+  position: absolute;
+}
+.component5-textinput3 {
+  top: 78px;
+  left: 378px;
+  position: absolute;
+}
+.component5-text05 {
+  top: 56px;
+  left: 0px;
+  position: absolute;
+  font-size: 40px;
+  font-style: normal;
+  text-align: center;
+  font-family: "Raleway";
+  font-weight: 700;
+}
+.component5-text09 {
+  top: 165px;
+  left: 9px;
+  position: absolute;
+  text-align: center;
+  line-height: 1.2;
+  letter-spacing: 2px;
+}
+.component5-root-class-name {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  margin: auto;
+  position: absolute;
+}

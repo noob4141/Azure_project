@@ -1,0 +1,71 @@
+.component4-container {
+  width: 718px;
+  height: 381px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: flex-start;
+}
+.component4-button {
+  left: 105px;
+  color: var(--dl-color-gray-white);
+  bottom: 0px;
+  position: absolute;
+  align-self: center;
+  font-family: "Raleway";
+  font-weight: 700;
+  border-color: var(--dl-color-success-300);
+  background-color: rgb(25, 144, 51);
+}
+.component4-textarea {
+  top: 153px;
+  left: 105px;
+  width: 613px;
+  height: 171px;
+  position: absolute;
+}
+.component4-textinput {
+  top: 0px;
+  left: 105px;
+  position: absolute;
+}
+.component4-text {
+  top: 4px;
+  right: 268.5px;
+  position: absolute;
+}
+.component4-text1 {
+  top: 5px;
+  left: 28px;
+  position: absolute;
+}
+.component4-text2 {
+  top: 83px;
+  left: 24px;
+  position: absolute;
+}
+.component4-text3 {
+  top: 83px;
+  right: 263.6999969482422px;
+  position: absolute;
+}
+.component4-text4 {
+  top: 153px;
+  left: 0px;
+  position: absolute;
+}
+.component4-textinput1 {
+  top: 0px;
+  right: 0.999969482421875px;
+  position: absolute;
+}
+.component4-textinput2 {
+  top: 78px;
+  right: 0.999969482421875px;
+  position: absolute;
+}
+.component4-textinput3 {
+  top: 78px;
+  left: 104px;
+  position: absolute;
+}
