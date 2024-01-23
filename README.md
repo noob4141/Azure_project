@@ -1,5 +1,5 @@
 # Future Ready Talent
-# Project Title: PlanetPulse(Disease Pridiction using Azure Custom Vision AI)
+# Project Title: PlantPulse(Disease Pridiction using Azure Custom Vision AI)
 # Problem Statement:
 The focal point of this project is to tackle the pressing challenge of identifying and effectively managing plant diseases within the realm of agriculture. Presently, farmers grapple with substantial crop losses stemming from diseases that go unnoticed, posing threats to both food security and sustainability. This initiative serves as a crucial link, utilizing advanced technology to promptly and precisely detect plant diseases. By doing so, it aims to mitigate the impact of undetected diseases on crops and contribute to the overall resilience and sustainability of agriculture.
 # Project Description
